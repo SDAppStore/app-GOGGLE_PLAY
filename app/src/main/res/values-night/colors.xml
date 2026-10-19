@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="goggle_blue">#A8C7FA</color>
+    <color name="goggle_blue_dark">#7CACF8</color>
+    <color name="goggle_blue_container">#203C5C</color>
+    <color name="goggle_search_surface">#25272C</color>
+    <color name="goggle_nav_surface">#1B1F24</color>
+    <color name="goggle_divider">#3C4043</color>
+    <color name="goggle_progress_track">#445B78</color>
+    <color name="goggle_text">#E3E3E3</color>
+    <color name="goggle_text_secondary">#C4C7C5</color>
+    <color name="goggle_outline">#8E918F</color>
+</resources>

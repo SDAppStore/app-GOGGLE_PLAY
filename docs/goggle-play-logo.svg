@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 108 108" role="img" aria-labelledby="title description">
+  <title id="title">Goggle Play logo</title>
+  <desc id="description">A layered blue play triangle on a pale rounded square.</desc>
+  <rect width="108" height="108" rx="24" fill="#F8FAFD"/>
+  <path fill="#0B57D0" d="M27 19c-2.6 1.7-4.1 4.8-4.1 8.1v53.8c0 3.3 1.5 6.4 4.1 8.1L69.5 54z"/>
+  <path fill="#4D8FF7" d="M32.7 17.1l42.5 24.5L69.5 54 27 19c1.6-1.4 3.7-2.1 5.7-1.9z"/>
+  <path fill="#0842A0" d="M75.2 66.4L32.7 90.9c-2 .2-4.1-.5-5.7-1.9l42.5-35z"/>
+  <path fill="#A8C7FA" d="M89.7 49.2l-14.5-8.2-5.7 13 5.7 13 14.5-8.2c3.5-2.1 3.5-7.5 0-9.6z"/>
+</svg>
